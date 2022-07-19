@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>NutriCadastro</title>
+    <script type="text/javascript" src="javascript.js"></script>
+    <link rel="stylesheet" href="reset.css" type="text/css">
+    <link rel="shortcut icon" type="image/x-icon" href="iconeNutri.ico">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+  </head>
+  <body>
+    <header id="cabecalho">
+      NutriCadastro
+      <i class="bi bi-heart-pulse-fill"></i>
+    </header>
+    <main>
+      <h2 class="titulo"> <i class="bi bi-calendar-plus"></i>&nbspCadastro para consulta</h2>
+      <form method="POST">
+        <div class="caixa">
+          <label for="nome" class="tituloInput">Insira seu nome completo:</label>
+          <input type="text" id="nome" class="caixaInputSecundaria">
+        </div>
+        <span class="caixa">
+          <label for="data" class="tituloInput">Selecione a data da consulta:</label>
+          <input type="date" id="data" class="caixaInputSecundaria">
+        </span>
+        <span class="caixa">
+          <label for="peso" class="tituloInput">Insira seu peso:</label>
+          <input type="number" id="peso" class="caixaInputSecundaria">
+        </span>
+        <span class="caixa">
+          <label for="altura" class="tituloInput">Insira sua altura:</label>
+          <input type="number" id="altura" step=".01" class="caixaInputSecundaria">
+        </span><br>
+        <p id="dicaData"> <i class="bi bi-lightbulb"></i>&nbspClique no mini-calendário para selecionar a data</p>
+        <input type="submit" value="Confirmar" class="caixa">
+        <input type="reset" value="Limpar dados">
+      </form>
+      <h2 class="titulo"> <i class="bi bi-calendar-check"></i>&nbspConsultas realizadas</h2>
+      <table class="caixa linha">
+        <thead>
+          <tr>
+            <th scope="col" class="tituloTabela">Nome</th>
+            <th scope="col" class="tituloTabela">Data da consulta</th>
+            <th scope="col" class="tituloTabela">Peso(kg)</th>
+            <th scope="col" class="tituloTabela">Altura</th>
+            <th scope="col" class="tituloTabela" id="imcTitulo">IMC</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        </tbody>
+      </table>
+    </main>
+  </body>
+</html>

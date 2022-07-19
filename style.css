@@ -1,0 +1,48 @@
+#cabecalho{
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: green;
+  }
+  .titulo{
+    padding: 3px 10px 3px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .tituloInput{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #nome{
+    width: 790px;
+  }
+  .caixaInputSecundaria{
+    height: 30px;
+  }
+  .caixa{
+    margin: 15px 0px 20px 29px;
+  }
+  #dicaData{
+    margin: 9px 0px 5px 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  .tituloTabela{
+    padding: 0px 30px 7px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    border-right: solid black;
+  }
+  #imcTitulo{
+    border: none;
+  }
+  tr > td{
+    text-align: center;
+    padding: 7px 30px 7px 30px;
+    font-family: Arial, Helvetica, sans-serif;;
+    border: solid black;
+  }
