@@ -1,4 +1,4 @@
-<h1 align="left">Projeto de cadastro de pacientes.</h1>
+<h1 align="left">Projeto de cadastro de pacientes e cálculo do IMC.</h1>
 
 <h3>📝 Sobre o projeto</h3>
 
