@@ -1,7 +1,6 @@
 # Projeto de cadastro de pacientes e cálculo do IMC
 
-<img width="200" src="https://user-images.githubusercontent.com/101880543/205785366-88c0d43a-2dc4-4ad0-a362-6e0b6fb8b089.png"></img>
-
+<img width="200" src="https://github.com/bhS1lva/Projeto-Cadastro-Nutricionista/assets/101880543/6b456c71-fe32-4be9-a28e-042245bca93a"></img>
 
 ### 📝 Sobre o projeto
 
