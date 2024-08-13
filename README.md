@@ -20,4 +20,4 @@
 * É o meu primeiro projeto utilizando JavaScript!
 * Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, abra uma issue ou entre em contato.
 
-### 🔗 Acesse em: <a href="https://bhs1lva.github.io/Projeto-Cadastro-Nutricionista/">NutriCadastro</a>
+### 🔗 Acesse em: <a href="https://bhfsilva.github.io/projeto-cadastro-nutricionista/">NutriCadastro</a>
