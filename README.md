@@ -1,14 +1,15 @@
 # Projeto de cadastro de pacientes e cálculo do IMC
 
-![badge encerrado](https://github.com/bhS1lva/Projeto-Cadastro-Nutricionista/assets/101880543/2503b6ac-6bb2-4f78-a0c9-12f711695ebf)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 📝 Sobre o projeto
+## 📝 Sobre o projeto
 
 * Projeto realizado durante o curso <strong>Responsive Web Development</strong> da plataforma de cursos <strong>NANO COURSES</strong> da faculdade <strong>FIAP</strong>;
-* Trata-se de uma plataforma de cadastro de pacientes em uma tabela para controle do IMC;
-* <strong>Tecnologias usadas</strong>: `🟧 HTML` `🟦 CSS` `🟨 JavaScript`;
+* Trata-se de uma plataforma de cadastro de pacientes em uma tabela para controle do IMC.
 
-<img align="right" width="150" src="https://media.discordapp.net/attachments/1012493604599631875/1030311689603780689/coracaoGIF.gif">
+<img align="right" width="150" src="https://github.com/user-attachments/assets/ba934c96-ab2d-48ce-b730-4d268678d623">
 
 ### 👥 Colaboradores
 
@@ -17,6 +18,6 @@
 ### 🛎 Considerações
 
 * É o meu primeiro projeto utilizando JavaScript!
-* Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, estou à disposição.
+* Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, abra uma issue ou entre em contato.
 
-## 🔗 Acesse em: <a href="https://bhs1lva.github.io/Projeto-Cadastro-Nutricionista/">NutriCadastro</a>
+### 🔗 Acesse em: <a href="https://bhs1lva.github.io/Projeto-Cadastro-Nutricionista/">NutriCadastro</a>
